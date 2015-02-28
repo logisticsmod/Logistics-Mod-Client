@@ -33,11 +33,13 @@ namespace Logistics_Mod_Client
         private void Form1_Load(object sender, EventArgs e)
         {
             api = new LogisticsModApi();
+            Console.WriteLine("created logistics mod api instance");
         }
 
         private void dataRefreshTimer_Tick(object sender, EventArgs e)
         {
             var data = Ets2TelemetryDataReader.Instance.Read();
+            Console.WriteLine("Created an instance of Ets2 Telemetry Data Reader");
             
             if(data.Connected){
                 connectionLabel.Text = "Connected";
@@ -46,12 +48,16 @@ namespace Logistics_Mod_Client
             {
                 connectionLabel.Text = "Disconnected";
             }
+            
+            Console.WriteLine("Set Connection Status");
 
             if (currentUser != null)
             {
+                Console.WriteLine("Current user is set");
                 //check if the trailer id has changed since it last changed and if so add a new delivery
                 if (data.TrailerId != lastTrailerId && data.HasJob)
                 {
+                    Console.WriteLine("adding delivery");
                     Dictionary<string, string> deliveryData = new Dictionary<string, string>()
                     {
                         {"trailerId", data.TrailerId},
@@ -69,9 +75,11 @@ namespace Logistics_Mod_Client
                     lastTrailerId = data.TrailerId;
                     deliverydata = new LogisticsMod.Api.delivery(currentUser, deliveryData);
                     Console.WriteLine(deliverydata.getId().ToString());
+                    Console.WriteLine("added delivery");
                 }
 
                 if(deliverydata != null){
+                    Console.WriteLine("delivery data is not null");
                     string trailerAttached;
 
                     if(data.TrailerAttached == true){
@@ -96,6 +104,7 @@ namespace Logistics_Mod_Client
                     };
 
                     deliverylog = new LogisticsMod.Api.deliveryLog(logData);
+                    Console.WriteLine("added new log line");
                 }
             }
         }
@@ -103,6 +112,7 @@ namespace Logistics_Mod_Client
         private void button1_Click(object sender, EventArgs e)
         {
             currentUser = new LogisticsMod.Api.user();
+            Console.WriteLine("created user");
         }
     }
 
