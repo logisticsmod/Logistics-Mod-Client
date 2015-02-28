@@ -5,11 +5,11 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics Mod Client", "Logistics Mod Client\Logistics Mod Client.csproj", "{9935AD35-ECC9-4139-A0D7-ADC534E60CE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroTruckSimulatorTelemetry", "..\..\..\..\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry.csproj", "{80FBF621-B3D8-457A-B6F9-519152F7AD37}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsMod.Api", "LogisticsMod.Api\LogisticsMod.Api.csproj", "{B69B8A87-1286-42F1-942D-8FEC24A8F83A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicJson", "DynamicJson\DynamicJson.csproj", "{C323FD0F-DB4C-433F-BF10-2F084A59652D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroTruckSimulatorTelemetry", "EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry.csproj", "{80FBF621-B3D8-457A-B6F9-519152F7AD37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{9935AD35-ECC9-4139-A0D7-ADC534E60CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9935AD35-ECC9-4139-A0D7-ADC534E60CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9935AD35-ECC9-4139-A0D7-ADC534E60CE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B69B8A87-1286-42F1-942D-8FEC24A8F83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B69B8A87-1286-42F1-942D-8FEC24A8F83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B69B8A87-1286-42F1-942D-8FEC24A8F83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{C323FD0F-DB4C-433F-BF10-2F084A59652D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C323FD0F-DB4C-433F-BF10-2F084A59652D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C323FD0F-DB4C-433F-BF10-2F084A59652D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FBF621-B3D8-457A-B6F9-519152F7AD37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

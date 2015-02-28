@@ -1,0 +1,9 @@
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\bin\Debug\EuroTruckSimulatorTelemetry.dll
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\bin\Debug\EuroTruckSimulatorTelemetry.pdb
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.dll
+\\192.168.0.199\users$\marcushann\documents\visual studio 2013\Projects\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.pdb
+C:\Users\User\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\bin\Debug\EuroTruckSimulatorTelemetry.dll
+C:\Users\User\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\bin\Debug\EuroTruckSimulatorTelemetry.pdb
+C:\Users\User\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.dll
+C:\Users\User\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\obj\Debug\EuroTruckSimulatorTelemetry.pdb

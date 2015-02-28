@@ -78,13 +78,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Downloads\Ets2-Telemetry-Library-master\Ets2-Telemetry-Library-master\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry.csproj">
-      <Project>{80fbf621-b3d8-457a-b6f9-519152f7ad37}</Project>
-      <Name>EuroTruckSimulatorTelemetry</Name>
-    </ProjectReference>
     <ProjectReference Include="..\DynamicJson\DynamicJson.csproj">
       <Project>{c323fd0f-db4c-433f-bf10-2f084a59652d}</Project>
       <Name>DynamicJson</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EuroTruckSimulatorTelemetry\EuroTruckSimulatorTelemetry.csproj">
+      <Project>{80fbf621-b3d8-457a-b6f9-519152f7ad37}</Project>
+      <Name>EuroTruckSimulatorTelemetry</Name>
     </ProjectReference>
     <ProjectReference Include="..\LogisticsMod.Api\LogisticsMod.Api.csproj">
       <Project>{b69b8a87-1286-42f1-942d-8fec24a8f83a}</Project>
