@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\DynamicJson\bin\Debug\DynamicJson.dll
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\DynamicJson\bin\Debug\DynamicJson.pdb
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\DynamicJson\obj\Debug\DynamicJson.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\DynamicJson\obj\Debug\DynamicJson.dll
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\DynamicJson\obj\Debug\DynamicJson.pdb

@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\bin\Debug\LogisticsMod.Api.dll
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\bin\Debug\LogisticsMod.Api.pdb
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\bin\Debug\DynamicJson.dll
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\bin\Debug\DynamicJson.pdb
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\obj\Debug\LogisticsMod.Api.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\obj\Debug\LogisticsMod.Api.dll
+c:\users\user\documents\visual studio 2013\Projects\Logistics Mod Client\LogisticsMod.Api\obj\Debug\LogisticsMod.Api.pdb
