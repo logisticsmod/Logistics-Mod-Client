@@ -55,6 +55,9 @@ namespace Logistics_Mod_Client
             {
                 Console.WriteLine("Current user is set");
                 //check if the trailer id has changed since it last changed and if so add a new delivery
+                Console.WriteLine("trailer id: " + data.TrailerId);
+                Console.WriteLine("last trailer id: " + lastTrailerId);
+                Console.WriteLine("Has Job: " + data.HasJob.ToString());
                 if (data.TrailerId != lastTrailerId && data.HasJob)
                 {
                     Console.WriteLine("adding delivery");
